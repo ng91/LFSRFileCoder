@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615402402 source:/niko2/Szkicowniki/codeblocks/coder/main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
